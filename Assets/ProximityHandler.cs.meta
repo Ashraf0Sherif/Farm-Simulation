@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47927732e74e59742b5fa24eced5d38c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - harrow: {fileID: 2378070467992294883, guid: d3aec173598a9e74184e6b18eced2cfd,
+      type: 3}
+  - tomatoBunchPrefab: {fileID: 5610022010871323879, guid: 89db9bc6a6b56ce4ba41ec46364fd52a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
