@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Plant_Large
   - Sheep
+  - Seed
+  - WaterCan
+  - Plant
+  - feed_plant
   layers:
   - Default
   - TransparentFX

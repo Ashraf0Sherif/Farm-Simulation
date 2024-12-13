@@ -12,18 +12,17 @@ namespace Ursaanimation.CubicFarmAnimals
         public float detectionRadius = 0.5f; // Radius to detect colliders
         public LayerMask detectionLayer; // Layer to detect specific objects (e.g., colliders)
 
-        private bool isMoving = false; // Flag to indicate if the NPC is currently moving
+        public bool isMoving = false; // Flag to indicate if the NPC is currently moving
 
         void Start()
         {
             animator = GetComponent<Animator>();
-            animations = new string[]
-            {
+            animations = new string[] {
                 "walk_forward",
                 "turn_90_L",
                 "turn_90_R",
                 "sit_to_stand",
-                "stand_to_sit"
+                "stand_to_sit","eating"
             };
 
             // Start the coroutine for random animation
