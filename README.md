@@ -44,11 +44,15 @@ The VR Farm Simulator is an interactive virtual reality experience built using U
 - **GrowSheep()**: Handles the grazing behavior of sheep and manages the dynamic growth of the sheep.
 
 ### Note: Detailed explanations of what the scripts do can be found in the folder named "The Scripts".
+Media
+
+## Media
+A demonstration video showcasing the VR Farm Simulator’s gameplay and features can be found here [Gameplay Video](https://drive.google.com/file/d/1caGI3ELFHO_-nWcIQ-Tjaxu0ztO6VpWU/view?usp=drive_link).
 
 ## Team Members:
-- Kareem Dwidar
-- Mohammed Ahmed AbdelFattah
-- Ashraf Sherif
-- Nour El-Deen Osama
-- Eman Ashraf
+- [Kareem Dwidar](https://github.com/Kareem06Dwidar)
+- [Mohammed Ahmed AbdelFattah](https://github.com/mohameddahmed)
+- [Ashraf Sherif](https://github.com/Ashraf0Sherif)
+- [Nour El-Deen Osama](https://github.com/Noureldeen75)
+- [Eman Ashraf](https://github.com/eman1ashraf)
 
