@@ -43,6 +43,8 @@ The VR Farm Simulator is an interactive virtual reality experience built using U
 - **StoreCrop()**: Manages the player's ability to collect harvested crops and place them into storage.
 - **GrowSheep()**: Handles the grazing behavior of sheep and manages the dynamic growth of the sheep.
 
+### Note: Detailed explanations of what the scripts do can be found in the folder named "The Scripts".
+
 ## Team Members:
 - Kareem Dwidar
 - Mohammed Ahmed AbdelFattah
