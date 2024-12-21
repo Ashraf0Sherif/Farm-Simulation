@@ -25,9 +25,6 @@ The VR Farm Simulator is an interactive virtual reality experience built using U
 - **C#**: Scripting language used for game logic.
 - **Unity XR Toolkit**: Used for VR support and interactive elements.
 
-## Gameplay Video 🎥
-Check out the gameplay in action: [Watch Gameplay Video](https://drive.google.com/file/d/1caGI3ELFHO_-nWcIQ-Tjaxu0ztO6VpWU/view?usp=drive_link)
-
 ## Code Structure
 
 ### Scripts Overview
@@ -47,7 +44,6 @@ Check out the gameplay in action: [Watch Gameplay Video](https://drive.google.co
 - **GrowSheep()**: Handles the grazing behavior of sheep and manages the dynamic growth of the sheep.
 
 ### Note: Detailed explanations of what the scripts do can be found in the folder named "The Scripts".
-Media
 
 ## Media
 A demonstration video showcasing the VR Farm Simulator’s gameplay and features can be found here [Gameplay Video](https://drive.google.com/file/d/1caGI3ELFHO_-nWcIQ-Tjaxu0ztO6VpWU/view?usp=drive_link).
